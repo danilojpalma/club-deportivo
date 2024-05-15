@@ -1,12 +1,20 @@
 {
   "deportes": [
     {
-      "nombre": "tennis",
-      "precio": "60000"
+      "nombre": "Ajedrez",
+      "precio": "25.000"
     },
     {
-      "nombre": "basquetball",
-      "precio": "10000"
+      "nombre": "Football",
+      "precio": "30.000"
+    },
+    {
+      "nombre": "Golf",
+      "precio": "80.000"
+    },
+    {
+      "nombre": "Padel",
+      "precio": "155.000"
     }
   ]
 }
