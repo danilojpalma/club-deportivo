@@ -13,9 +13,8 @@
           <td>${d.nombre}</td>
           <td>$${d.precio}</td>
           <td>
-            <button class="btn btn-warning mx-4" onclick='preEdit("${d.nombre}","${d.precio
-          }")' data-toggle="modal" data-target="#exampleModal">Editar</button>
-            <button class="btn btn-danger mx-4 my-lg-0 my-3" onclick='eliminar("${d.nombre}")'>Eliminar</button>
+            <button class="btn btn-warning mx-2" onclick='preEdit("${d.nombre}","${d.precio}")' data-toggle="modal" data-target="#exampleModal">Editar</button>
+            <button class="btn btn-danger mx-2" onclick='eliminar("${d.nombre}")'>Eliminar</button>
           </td>
         </tr>
         `)
